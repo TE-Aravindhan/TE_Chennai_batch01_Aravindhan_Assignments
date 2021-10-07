@@ -1,0 +1,19 @@
+:: @ECHO OFF :: To clean up the by hide all commands ,if didn't use @ it the command that used to run the cleaner.
+
+TITLE Java program run by using .bat file. :: To change the title of the cmd.
+
+ECHO Basic Array Program  :: To print somthing other then that in program
+
+javac Arr1.java
+
+java Arr1
+
+PAUSE 
+
+CLS :: To clear cmd screen.
+
+PAUSE
+
+EXIT :: To exit cmd.
+
+PAUSE
